@@ -1,0 +1,13 @@
+.wrap{
+    padding: 20px;
+}
+.wrapContent{
+    margin-top: 10px;
+}
+.panel{
+    height: 300px;
+    width: 100%;
+}
+.chart{
+    height: 460px;
+}

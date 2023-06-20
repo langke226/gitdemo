@@ -1,0 +1,15 @@
+.nav{
+    height: 100vh;
+}
+.navleft{
+    background: gray;
+}
+.title{
+    font-size: 20px;
+    color: #fff;
+    text-align: center;
+    line-height: 20px;
+}
+.container{
+    padding: 20px;
+}
